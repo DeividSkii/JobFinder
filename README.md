@@ -22,20 +22,22 @@ O JobFinder foi criado para estudar organização de projetos Node.js, criação
 
 ---
 
-## 📂 Estrutura do projeto
+## 📁 Estrutura do projeto
 
+```
 JobFinder
 │
-├── db/ # Configuração ou dados do banco
-├── models/ # Modelos da aplicação
-├── routes/ # Rotas da aplicação
-├── views/ # Páginas renderizadas
-├── public/ # Arquivos estáticos
+├── db/          # Configuração ou dados do banco
+├── models/      # Modelos da aplicação
+├── routes/      # Rotas da aplicação
+├── views/       # Páginas renderizadas
+├── public/      # Arquivos estáticos
 │
 ├── app.js
 ├── index.html
 ├── package.json
 └── README.md
+```
 
 ---
 
